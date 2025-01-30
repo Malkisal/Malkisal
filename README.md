@@ -19,16 +19,15 @@ About Me
 - Vascular immunology and atherosclerosis research
 - RNA-seq data analysis in immunity
 - R package development for molecular biology
-- Interdisciplinary projects in immunology and data science
+
 
 🛠️ Skills
 - R programming
 - RNA sequencing analysis
 - Immunological techniques
-- Flow cytometry
 - Data visualization
 - Statistical analysis
-- Git version control
+
 
 📚 Recent Publication
 - Poster Abstract: "Micro RNA sequencing analysis of neutrophil derived microvesicles produced in response to proatherogenic stimuli"
